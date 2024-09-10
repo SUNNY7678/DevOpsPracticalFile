@@ -1,1 +1,2 @@
 Hello i am rebase here i am demostrate my self
+the git rebase command, commonly used in Git to restructure the commit history. Rebasing allows you to move or combine a series of commits onto a new base commit, which helps in keeping the project history clean and linear. This is particularly useful in feature branching workflows where multiple developers are working on different features and need to integrate changes without cluttering the commit history.
