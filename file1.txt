@@ -1,1 +1,6 @@
+<<<<<<< Updated upstream
 DevOps
+=======
+DevOps is a very interesting subject
+ther is nothing to change
+>>>>>>> Stashed changes
